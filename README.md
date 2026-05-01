@@ -22,18 +22,24 @@ I don’t just build solutions — I focus on **why they matter**.
 I combine **technology, business thinking, and storytelling** to create solutions that connect with people.
 
 ---
-
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UiPath-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/GenAI-purple?style=for-the-badge"/>
 </p>
 
 ---
